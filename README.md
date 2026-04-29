@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Escudo_de_la_Universidad_de_La_Frontera.svg/200px-Escudo_de_la_Universidad_de_La_Frontera.svg.png](https://www.ufro.cl/wp-content/uploads/2025/03/01-logo-UFRO-azul-vertical.png)" alt="Logo Universidad de La Frontera" width="120"/>
+<img src="https://www.ufro.cl/wp-content/uploads/2025/03/02-logo-UFRO-blanco-horizontal.png" alt="Logo Universidad de La Frontera" width="300"/>
 
 # ICC 159 — Introducción a la Ingeniería Informática
 
