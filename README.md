@@ -22,7 +22,7 @@
 2. [🚀 Comandos de Supervivencia](#-comandos-de-supervivencia)
 3. [📚 Material de Estudio (Artículos)](#-material-de-estudio-artículos)
 4. [🎬 Videos Pre-Clase Recomendados](#-videos-pre-clase-recomendados)
-5. [📖 Wiki del Repositorio](../../wiki)
+5. [📖 Wiki del Repositorio](https://github.com/JoacoArriagada/Material_Git/wiki/Wiki-Comandos-B%C3%A1sicos-Git)
 
 ---
 
@@ -82,14 +82,12 @@ Se espera que los estudiantes revisen este material antes de las sesiones práct
 
 ## 🗺️ Wiki del Repositorio
 
-Para ver la descripción detallada de los **20 comandos obligatorios** y guías de configuración de **SSH Keys**, visita nuestra **[📖 Wiki oficial](../../wiki)**.
+Para ver la descripción detallada de los **20 comandos obligatorios** y guías de configuración de **SSH Keys**, visita nuestra **[📖 Wiki oficial](https://github.com/JoacoArriagada/Material_Git/wiki/Wiki-Comandos-B%C3%A1sicos-Git)**.
 
 ---
 
 <div align="center">
 
 **Departamento de Ciencias de la Computación e Informática** Universidad de La Frontera · Temuco, Chile  
-
-*¿Problemas con tu repositorio? Abre un [Issue](../../issues).*
 
 </div>
