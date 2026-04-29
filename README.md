@@ -22,7 +22,7 @@
 2. [🚀 Comandos de Supervivencia](#-comandos-de-supervivencia)
 3. [📚 Material de Estudio (Artículos)](#-material-de-estudio-artículos)
 4. [🎬 Videos Pre-Clase Recomendados](#-videos-pre-clase-recomendados)
-5. [📖 Wiki del Repositorio](https://github.com/JoacoArriagada/Material_Git/wiki/Wiki-Comandos-B%C3%A1sicos-Git)
+5. [📖 Wiki del Repositorio](https://github.com/JoacoArriagada/Material_Git/wiki)
 
 ---
 
