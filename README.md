@@ -82,7 +82,9 @@ Se espera que los estudiantes revisen este material antes de las sesiones práct
 
 ## 🗺️ Wiki del Repositorio
 
-Para ver la descripción detallada de los **20 comandos obligatorios** y guías de configuración de **SSH Keys**, visita nuestra **[📖 Wiki oficial](https://github.com/JoacoArriagada/Material_Git/wiki/Wiki-Comandos-B%C3%A1sicos-Git)**.
+Para ver la descripción detallada de los **20 comandos obligatorios** y guías de configuración de **SSH Keys**, visita nuestra 
+**[📖 Guía configuración de SSH Keys]**
+**[📖 Wiki oficial](https://github.com/JoacoArriagada/Material_Git/wiki/Wiki-Comandos-B%C3%A1sicos-Git)**.
 
 ---
 
