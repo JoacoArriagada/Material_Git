@@ -9,7 +9,7 @@
 
 [![Git](https://img.shields.io/badge/Herramienta-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Plataforma-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
+[![Asignatura](https://img.shields.io/badge/Asignatura-ICC%20159-blue)](../../)
 
 > 🎓 **¡Bienvenido/a!** Este repositorio es tu punto de partida para dominar Git y el control de versiones. Una habilidad esencial para todo ingeniero/a informático/a.
 
@@ -52,7 +52,7 @@ Estos 5 comandos son los que **más usarás** en tu día a día. ¡Apréndetelos
 
 | # | Comando | Sintaxis básica | ¿Para qué sirve? |
 |---|---------|-----------------|------------------|
-| 1 | `git init` | `git init` | Inicializa un repositorio Git nuevo en la carpeta actual. Es el primer paso de cualquier proyecto. |
+| 1 | `git init` | `git init` | Crea un directorio oculto `.git` en la carpeta actual, convirtiendo el proyecto en un repositorio Git que podrá rastrear su historial de cambios. |
 | 2 | `git add` | `git add <archivo>` o `git add .` | Prepara los archivos modificados para ser confirmados (los mueve al *staging area*). |
 | 3 | `git commit` | `git commit -m "mensaje"` | Guarda una instantánea de los cambios preparados con un mensaje descriptivo. |
 | 4 | `git push` | `git push origin <rama>` | Sube los commits locales al repositorio remoto (por ejemplo, GitHub). |
